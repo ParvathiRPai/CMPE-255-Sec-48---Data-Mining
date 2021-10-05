@@ -7,3 +7,6 @@ This assignment contains the following:
 5) Train test split of the dataset
 6) Analysis of various algorithms
 7) Accuracy
+
+
+Colab link: https://colab.research.google.com/drive/1tscR5Xmqu5AQn8T1vyAWYgMHVUOWWkZB?usp=sharing
