@@ -10,3 +10,6 @@ This assignment contains the following:
 
 
 Colab link: https://colab.research.google.com/drive/1tscR5Xmqu5AQn8T1vyAWYgMHVUOWWkZB?usp=sharing
+
+
+Video explanation: https://drive.google.com/file/d/1Qv1NJ2WUcSt9jjUBm4_XXD3qwXrVF6ZG/view?usp=sharing
