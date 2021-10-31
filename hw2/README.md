@@ -2,5 +2,5 @@ This assignmnet contains various dimensionality reduction techniques  their adva
 
 The overview of the dimensionality reduction techiques is as shown below
 
-![](/pictures/img.png)
+![](pictures/img.png)
 
