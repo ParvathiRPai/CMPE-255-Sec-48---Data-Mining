@@ -10,5 +10,5 @@ This repo contains alternatives to K_Nearest neighbours
    
 
 ##### Link to the project explanation: https://drive.google.com/file/d/1rLHAG-wpkAZwckdrTUHHWyaS3kSDZljI/view?usp=sharing
-##### Link to the Datset: https://drive.google.com/drive/folders/1_s_HITCJVeNcQDAUqwlJXVKJBof_PNHC?usp=sharing
+##### Link to the Dataset: https://drive.google.com/drive/folders/1_s_HITCJVeNcQDAUqwlJXVKJBof_PNHC?usp=sharing
 ###### Link to the Colab: https://colab.research.google.com/drive/1hGzeuRuFiLSm1oqVnYAZIrEHR57RPYDz?usp=sharing
