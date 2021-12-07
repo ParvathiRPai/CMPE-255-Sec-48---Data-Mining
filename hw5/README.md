@@ -3,7 +3,7 @@ This assignmnet contains the following:
 2. Frequent Pattern (FP) Growth
 
 
-Deatils: 
+Deatils:
 1. Link to the colab:
 https://colab.research.google.com/drive/1X-eYPtI6LONOeHNIYpsXNm2HmZmJ3zbd?usp=sharing
 
